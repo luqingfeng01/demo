@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb25fe5d-6315-496d-a4ee-b5b676b75946" name="Default Changelist" comment="" />
+    <list default="true" id="fb25fe5d-6315-496d-a4ee-b5b676b75946" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,6 +45,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -39,6 +56,11 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="888" />
     <option name="y" value="250" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="277" />
+    <option name="y" value="357" />
+>>>>>>> 9f85fcc2e18fc4e8a11f6b58ac9955559c8059af
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -52,8 +74,13 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="test3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test3" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 9f85fcc2e18fc4e8a11f6b58ac9955559c8059af
             </path>
           </expand>
           <select />
@@ -97,11 +124,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567914790861</updated>
+<<<<<<< HEAD
       <workItem from="1567914792021" duration="5156000" />
+=======
+      <workItem from="1567914792021" duration="4274000" />
+      <workItem from="1567930084670" duration="528000" />
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1567930337903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567930337904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交11">
+      <created>1567930597758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567930597758</updated>
+>>>>>>> 9f85fcc2e18fc4e8a11f6b58ac9955559c8059af
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5156000" />
   </component>
   <component name="ToolWindowManager">
@@ -117,6 +165,17 @@
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+=======
+    <option name="totallyTimeSpent" value="4802000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="375" y="120" width="1440" height="780" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> 9f85fcc2e18fc4e8a11f6b58ac9955559c8059af
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -124,28 +183,33 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23065016" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <MESSAGE value="提交11" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交11" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
