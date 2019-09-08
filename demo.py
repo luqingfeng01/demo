@@ -1,2 +1,3 @@
 print ("hello world")
-prity ("222")
+print ("222")
+print ("4212")
